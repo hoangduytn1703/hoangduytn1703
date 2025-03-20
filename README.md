@@ -69,8 +69,9 @@ I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specia
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio](https://nhduy1703.vercel.app/)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio**: [My Portfolio](https://nhduy1703.vercel.app/)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/nhduy1703/)
+- **Email**: [hoangduytn1703@gmail.com](mailto:hoangduytn1703@gmail.com)
+- **Facebook**: [AkiraGosho](https://www.facebook.com/AkiraGosho1703/)
 
 Let's build something amazing together! 🚀
