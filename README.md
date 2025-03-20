@@ -1,7 +1,5 @@
 # Hi there, I'm Nguyen Hoang Duy! 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
 I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specialize in building high-performance web and mobile applications with beautiful effects. My core strengths lie in **VueJS** and **NuxtJS**, and I also have experience with **ReactJS** and **NextJS**.
 
 - 🌟 **HTML/SCSS**
