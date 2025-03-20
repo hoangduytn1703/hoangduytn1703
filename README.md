@@ -9,7 +9,7 @@ I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specia
 - 🌟 **VueJS**
 - 🌟 **NuxtJS**
 - 🌟 **ReactJS/NextJS**
-- 
+
 ---
 
 ## 🛠️ Services
