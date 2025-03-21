@@ -1,13 +1,11 @@
 # Hi there, I'm Nguyen Hoang Duy! 👋
 
-I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specialize in building high-performance web and mobile applications with beautiful effects. My core strengths lie in **VueJS** and **NuxtJS**, and I also have experience with **ReactJS** and **NextJS**.
+I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specialize in building high-performance web and mobile applications with beautiful effects. My core strengths: 
 
 - 🌟 **HTML/SCSS**
 - 🌟 **JavaScript/TypeScript/jQuery**
-- 🌟 **VueJS**
-- 🌟 **NuxtJS**
-- 🌟 **ReactJS/NextJS**
-
+- 🌟 **VueJS/VueX/NuxtJS**
+- 🌟 **ReactJS/Nuxt/NextJS**
 ---
 
 ## 🛠️ Services
@@ -60,7 +58,8 @@ I'm a passionate **Frontend Developer** from Ho Chi Minh City, Vietnam. I specia
 - **Dragon Village**: An interactive platform showcasing real estate projects.
 - **NHK for School**: Educational platform developed using VueJS.
 - **Chikipay**: A payment solution designed for seamless transactions.
-
+...
+  See more by [My Portfolio](https://nhduy1703.vercel.app/) 
 ---
 
 ## 📫 Get In Touch
