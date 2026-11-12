@@ -46,8 +46,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hoangduytn1703&theme=github-dark-blue&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=hoangduytn1703&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hoangduytn1703&theme=github-dark-blue&hide_border=true&disable_animations=true" />
+    <img src="https://streak-stats.demolab.com?user=hoangduytn1703&hide_border=true&disable_animations=true" alt="GitHub streak" />
   </picture>
 </p>
 
